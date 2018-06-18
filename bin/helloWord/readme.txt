@@ -14,4 +14,3 @@
                2 Dir(s)  441,628,811,264 bytes free
 Hey
 Hi
-Hello How are you!
