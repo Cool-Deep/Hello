@@ -13,7 +13,12 @@
                5 File(s)          1,140 bytes
                2 Dir(s)  441,628,811,264 bytes free
 Hey
+<<<<<<< HEAD
 
 Hi
 Hello How are you!
 
+=======
+Hello
+What are you doing 
+>>>>>>> 897a111e00d8af33fbc6899bc2f4cafd711f47f8
